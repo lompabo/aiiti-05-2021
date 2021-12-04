@@ -14,7 +14,7 @@ This tutorial in particular addresses the estimation of the Remaining Useful Lif
 
 The tutorial is split over multiple (numbered) Jupyter notebooks. _The preferred way to access the tutorial is via Binder_, which enables running the code on a remote server:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lompabo/aiiti-04-2021/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lompabo/aiiti-05-2021/HEAD)
 
 Alternatively, it is possible to _inspect the notebooks in a static form_ (by just clicking on any `*.ipynb` file in this directory), or to _run the code locally_. Doing this will require to:
 

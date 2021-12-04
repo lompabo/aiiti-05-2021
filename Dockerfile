@@ -8,7 +8,7 @@
 
 # Specify the base image
 # NOTE: Binder requires a tag to be specified
-FROM tensorflow/tensorflow:2.4.1
+FROM tensorflow/tensorflow:2.7.0
 
 # Define a user whose uid is 1000
 # NOTE: this is required for Binder compatibility, to ensure that processes

@@ -137,4 +137,6 @@ dmypy.json
 
 # Do not sync the data files
 data/*
-data.zip
+data*
+
+.keras
